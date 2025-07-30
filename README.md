@@ -1,2 +1,2 @@
 # network_steganography-
-Hiding data within network traffic using network protocols.
+Hiding data within network traffic using various protocols.
